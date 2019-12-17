@@ -24,7 +24,7 @@ This RoadMap is Created by [Alikhll (Ali Khalili)](https://github.com/Alikhll)  
 
 ## 路线图
 
-![Roadmap](https://github.com/bigdot123456/GoPatternLearning/blob/master/golang-developer-roadmap.png)
+![Roadmap](https://github.com/bigdot123456/GoPatternLearning/raw/master/golang-developer-roadmap.png)
 
 ## 资源
 
